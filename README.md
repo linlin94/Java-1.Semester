@@ -4,7 +4,7 @@ Ein paar Beispiele
 
 Linda Koziol
 
-<a href="Hangman/">Hangman</a> - kleines Hangmanspiel
+<a href="Hangman/Hangman.java">Hangman</a> - kleines Hangmanspiel
 <br>
 <a href="Lagerverwaltung/">Lagerverwaltung</a> - Lagerverwaltung in der Produkte + Anzahl eingelagert und ausgelagert werden können. Lagerabfragen möglich.
 <br>
